@@ -1,0 +1,12 @@
+name: Mitsuba-Terrain
+dependencies:
+  - python
+  - llvm
+  - pillow
+  - matplotlib
+  - jupyter
+  - requests
+  - nb_conda_kernels
+  - pip
+  - pip:
+       - mitsuba
